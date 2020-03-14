@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DJ3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="posts">Posts</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+
+    <string name="fragment_profile">Profile</string>
+    <string name="fragment_posts">Posts</string>
 </resources>
